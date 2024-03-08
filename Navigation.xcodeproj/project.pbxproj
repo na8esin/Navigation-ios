@@ -16,6 +16,7 @@
 		5BB032F42B98196500082D37 /* NavigationTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5BB032F32B98196500082D37 /* NavigationTests.swift */; };
 		5BB032FE2B98196500082D37 /* NavigationUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5BB032FD2B98196500082D37 /* NavigationUITests.swift */; };
 		5BB033002B98196500082D37 /* NavigationUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5BB032FF2B98196500082D37 /* NavigationUITestsLaunchTests.swift */; };
+		5BB0330D2B98236E00082D37 /* NextViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5BB0330C2B98236E00082D37 /* NextViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		5BB032F92B98196500082D37 /* NavigationUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = NavigationUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		5BB032FD2B98196500082D37 /* NavigationUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationUITests.swift; sourceTree = "<group>"; };
 		5BB032FF2B98196500082D37 /* NavigationUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		5BB0330C2B98236E00082D37 /* NextViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NextViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				5BB032E52B98196500082D37 /* Assets.xcassets */,
 				5BB032E72B98196500082D37 /* LaunchScreen.storyboard */,
 				5BB032EA2B98196500082D37 /* Info.plist */,
+				5BB0330C2B98236E00082D37 /* NextViewController.swift */,
 			);
 			path = Navigation;
 			sourceTree = "<group>";
@@ -259,6 +262,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				5BB032E12B98196400082D37 /* ViewController.swift in Sources */,
+				5BB0330D2B98236E00082D37 /* NextViewController.swift in Sources */,
 				5BB032DD2B98196400082D37 /* AppDelegate.swift in Sources */,
 				5BB032DF2B98196400082D37 /* SceneDelegate.swift in Sources */,
 			);
